@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: './suruchifoodtraining-1.0/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
