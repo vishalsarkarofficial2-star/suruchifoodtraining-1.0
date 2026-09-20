@@ -1,0 +1,6 @@
+{
+  "name": "Suruchi Food Training",
+  "description": "Premium culinary training academy and cooking workshops. Learn the art of cooking, baking, regional cuisines, and culinary entrepreneurship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
